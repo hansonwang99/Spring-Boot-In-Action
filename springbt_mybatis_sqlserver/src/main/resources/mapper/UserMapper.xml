@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="cn.codesheep.springbt_mybatis_sqlserver.mapper.UserMapper">
+
+    <resultMap id="userMap" type="cn.codesheep.springbt_mybatis_sqlserver.entity.User">
+        <id property="userId" column="user_id" javaType="java.lang.Long"></id>
+        <result property="userName" column="user_name" javaType="java.lang.String"></result>
+        <result property="sex" column="sex" javaType="java.lang.Boolean"></result>
+        <result property="createdTime" column="created_time" javaType="java.lang.String"></result>
+    </resultMap>
+
+    <select id="getAllUsers" resultMap="userMap">
+        select * from user_test
+    </select>
+
+    <insert id="addUser" parameterType="cn.codesheep.springbt_mybatis_sqlserver.entity.User">
+        insert into user_test ( user_id, user_name, sex, created_time ) values ( #{userId}, #{userName}, #{sex}, #{createdTime} )
+    </insert>
+
+    <delete id="deleteUser" parameterType="cn.codesheep.springbt_mybatis_sqlserver.entity.User">
+        delete from user_test where user_name = #{userName}
+    </delete>
+
+</mapper>
