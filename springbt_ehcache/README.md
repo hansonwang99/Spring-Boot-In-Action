@@ -11,14 +11,6 @@
 
 
 
->**注：** 本文首发于  [**博客 CodeSheep · 程序羊**](http://www.codesheep.cn)，欢迎光临 [**小站**](http://www.codesheep.cn)！
-
-> 本文共 851字，阅读大约需要 3分钟 ！
-
-本文内容脑图如下：
-![本文内容脑图](https://upload-images.jianshu.io/upload_images/9824247-c34307841797c884.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
 ---
 
 ## 概述

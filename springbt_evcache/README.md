@@ -10,10 +10,6 @@
 ---
 
 
-![Profile](https://upload-images.jianshu.io/upload_images/9824247-1808cf037d128163.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-> 文章共 727字，阅读大约需要 2分钟 ！
-
 ---
 
 ## 概 述

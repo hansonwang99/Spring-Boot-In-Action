@@ -9,11 +9,6 @@
 
 ---
 
-![小网红](https://upload-images.jianshu.io/upload_images/9824247-0134486b688f4a58.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-> 文章共 537字，阅读大约需要 2分钟 ！
-
 ---
 
 ## 概述
