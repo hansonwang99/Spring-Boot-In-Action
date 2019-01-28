@@ -307,10 +307,5 @@ public class SpringbtEhcacheApplication {
 > 由于能力有限，若有错误或者不当之处，还请大家批评指正，一起学习交流！
 
 - My Personal Blog：[CodeSheep  程序羊](http://www.codesheep.cn/)
-- [我的半年技术博客之路](https://www.jianshu.com/p/28ba53821450)
-
->[本文实验代码在此](https://github.com/hansonwang99/spring-bt-demos/tree/master/springbt_ehcache)
-
----
 
 ---

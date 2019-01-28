@@ -219,13 +219,6 @@ Client应用一启动，Admin服务立马推送来了消息，告诉你AdminTest
 
 > 由于能力有限，若有错误或者不当之处，还请大家批评指正，一起学习交流！
 
-- [My Personal Blog](http://www.codesheep.cn/)
-- [我的半年技术博客之路](https://www.jianshu.com/p/28ba53821450)
-
----
-
-> 可 **长按** 或 **扫描** 下面的 **小心心** 来订阅 **CodeSheep**，获取更多 **务实、能看懂、可复现的** 原创文 ↓↓↓
-
-![CodeSheep · 程序羊](http://upload-images.jianshu.io/upload_images/9824247-f85cd9d9a0bfa6fa?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- My Personal Blog：[CodeSheep  程序羊](http://www.codesheep.cn/)
 
 ---

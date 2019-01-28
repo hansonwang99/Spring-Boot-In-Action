@@ -295,13 +295,5 @@ OK，全局唯一流水号ID已经成功生成并返回！
 > 由于能力有限，若有错误或者不当之处，还请大家批评指正，一起学习交流！
 
 - My Personal Blog：[CodeSheep  程序羊](http://www.codesheep.cn/)
-- [我的半年技术博客之路](https://www.jianshu.com/p/28ba53821450)
 
 ---
-
----
-
-> 可 **长按** 或 **扫描** 下面的 **小心心** 来订阅作者公众号 **CodeSheep**，获取更多 **务实、能看懂、可复现的** 原创文 ↓↓↓
-
-![CodeSheep · 程序羊](https://user-gold-cdn.xitu.io/2018/8/9/1651c0ef66e4923f?w=270&h=270&f=png&s=102007)
-
