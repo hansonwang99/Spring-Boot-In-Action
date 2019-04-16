@@ -1,8 +1,7 @@
 
----
 
 
-本项目内容为 《Spring Boot实战合集》系列文章，并持续保持更新。如您觉得该项目对您有用，欢迎点击右上方的 Star 按钮，给予支持！！
+### 本项目内容为 《Spring Boot实战合集》系列文章，并持续保持更新。如您觉得该项目对您有用，欢迎点击右上方的 Star 按钮，给予支持！！
 
 - 个人博客：https://www.codesheep.cn
 - GitHub：https://github.com/hansonwang99
@@ -10,6 +9,11 @@
 另外所有内容都在我的个人公众号 CodeSheep 最先推出，大家可以关注一下，可 **长按** 或 **扫描** 下面的 **小心心** 来获取更多 **务实、能看懂、可复现的** 原创文 ↓↓↓
 
 ![CodeSheep · 程序羊](https://user-gold-cdn.xitu.io/2018/8/9/1651c0ef66e4923f?w=270&h=270&f=png&s=102007)
+
+[![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu/#/en_US)
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+[![Slack](https://img.shields.io/badge/slack-996icu-green.svg)](https://join.slack.com/t/996icu/shared_invite/enQtNTg4MjA3MzA1MzgxLWQyYzM5M2IyZmIyMTVjMzU5NTE5MGI5Y2Y2YjgwMmJiMWMxMWMzNGU3NDJmOTdhNmRlYjJlNjk5ZWZhNWIwZGM)
+[![HitCount](http://hits.dwyl.io/996icu/996.ICU.svg)](http://hits.dwyl.io/996icu/996.ICU)
 
 ---
 
