@@ -30,6 +30,10 @@
 
 - [Elasticsearch搜索引擎在Spring Boot中的实践](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springboot_es_demo)
 
+- [自制一个 elasticsearch-spring-boot-starter](https://www.codesheep.cn/2019/02/28/elasticsearch-spring-boot-starter/)
+
+- [Spring Boot项目利用MyBatis Generator进行数据层代码自动生成](https://www.codesheep.cn/2019/02/14/mybatis-generator/)
+
 ---
 
 # 日志相关
@@ -55,6 +59,14 @@
 - [SpringBoot 应用程序启动过程探秘](http://www.codesheep.cn/2018/09/04/springboot-startup-process/)
 
 - [如何自制一个Spring Boot Starter并推送到远端公服](https://www.codesheep.cn/2019/01/24/springbt-starter/)
+
+---
+
+# 认证和权限相关
+
+- [基于 Spring Security和 JWT的权限系统设计](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_security_jwt)
+
+- [基于Spring Security Oauth2的SSO单点登录+JWT权限控制实践](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_sso_jwt)
 
 ---
 
