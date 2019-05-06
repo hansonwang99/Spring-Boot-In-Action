@@ -34,6 +34,8 @@
 
 - [Spring Boot项目利用MyBatis Generator进行数据层代码自动生成](https://www.codesheep.cn/2019/02/14/mybatis-generator/)
 
+- [Mybatis-Plus 真好用（乡村爱情加持）](https://www.codesheep.cn/2019/04/12/springbt-mybatis-plus/)
+
 ---
 
 # 日志相关
