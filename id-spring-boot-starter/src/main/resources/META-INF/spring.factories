@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.baidu.fsg.uid.config.UIDConfig,\
+com.baidu.fsg.uid.service.UidGenService
