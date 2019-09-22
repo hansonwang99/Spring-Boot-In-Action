@@ -8,7 +8,7 @@
 
 另外所有内容都在我的个人微信公众号 **CodeSheep** 最先推出，大家可以关注一下，可 **长按** 或 **扫描** 下面的 **小心心** 来获取更多 **务实、能看懂、可复现的** 原创文。除此之外 **提问/进群交流** 也可以扫码进行！！！
 
-![CodeSheep · 程序羊](https://user-gold-cdn.xitu.io/2018/8/9/1651c0ef66e4923f?w=270&h=270&f=png&s=102007)
+![CodeSheep · 程序羊](https://www.codesheep.cn/css/images/codesheep_logo_heart.jpg)
 
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu/#/en_US)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
