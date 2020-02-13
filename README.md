@@ -1,7 +1,7 @@
 
 
 
-### 本项目内容为 《Spring Boot实战合集》系列文章，代码已开源，并持续保持更新。如果您觉得该项目对您有用，欢迎点击右上方的 Star按钮支持一波！！
+### 本项目为 《Spring Boot实战合集》系列文章，代码已开源，并持续保持更新。如果您觉得该项目对您有用，欢迎点击右上方的 Star按钮支持一波！！
 
 - 个人博客：https://www.codesheep.cn
 - GitHub：https://github.com/hansonwang99
